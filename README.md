@@ -1,14 +1,10 @@
 # ARSIP SURAT
-
-<div align="center">
     
   ![image](screenshots/arsipsurat.png)
 
 Aplikasi web yang dikembangkan untuk mendukung perangkat Desa Karangduren dalam pengelolaan, penyimpanan, dan pengarsipan surat resmi secara digital dengan lebih efisien dan terstruktur.
 
 </div>
-
-<div align="center">
 
 ## Tujuan
 
