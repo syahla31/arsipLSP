@@ -34,9 +34,9 @@ Aplikasi ini dirancang untuk mengelola arsip surat secara digital, sekaligus mem
        php artisan key:generate
     ```
 4. Salin file `.env.example` menjadi `.env` dan sesuaikan konfigurasi database.
-5. Jalankan migrasi database atau gunakan file siparsat-kd.sql:
+5. Jalankan migrasi database atau gunakan file arsipsurat.sql:
    ```bash
-   php artisan migrate --seed
+   php artisan migrate
    ```
 6. Jalankan aplikasi dengan perintah:
    ```bash
